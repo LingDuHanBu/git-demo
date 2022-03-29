@@ -1,0 +1,10 @@
+hello,world!
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+欢迎来到 Git！
+hello,world!
